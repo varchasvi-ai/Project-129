@@ -1,0 +1,40 @@
+#white
+{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(224, 224, 224, 0.884);
+    float: left;
+    text-align: center;
+}
+
+#clear_div
+{
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+
+h1
+{
+    font-family: 'Abel', sans-serif;
+    font-size: 70px;
+}
+
+#note
+{
+    font-family: 'Abel' , sans-serif;
+    font-size: 20px;
+}
+
+#line_div
+{
+    width: 500px;
+    height: 5px;
+    background-color: black;
+    margin-left: 15%;
+}
+
+img
+{
+    width: 400px;
+}
